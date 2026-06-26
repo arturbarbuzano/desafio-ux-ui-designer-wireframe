@@ -12,4 +12,4 @@ Foi utilizado a plataforma Figma para prototipação da página e foi aplicado c
 
 <img src=images\Acessorios-Contato.png>
 
-<strong>Obs:</strong> Imagens criadas por Inteligência Artificial e/ou sem direitos autorais. Marca fictícia, projeto voltado para fins educativos e sem fins lucrativos.
+<strong>Obs:</strong> Marca fictícia, projeto voltado para fins educativos e sem fins lucrativos.
